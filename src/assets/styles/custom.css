@@ -1,0 +1,44 @@
+.navbar {
+	background-color: transparent;
+	border: 0;
+	border-radius: 0;
+}
+
+.navbar-header > div > span {
+	font-size: 32px;
+	color: #fcfcfc;
+}
+
+.navbar-header > div > span:hover {
+	cursor: pointer;
+}
+
+.navbar-brand {
+	color: #fcfcfc;
+	font-size: 24px;
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus {
+	color: #2874A6;
+	font-size: 24px;
+}
+
+.navbar-nav a {
+	color: #fcfcfc;
+	font-size: 14px;
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+	background-color: transparent;
+	color: #2874A6;
+}
+
+.nav > li.active {
+	border-bottom: 3px solid #2874A6;
+}
+
+.nav > hr {
+    border: 2px solid #2874A6;
+}
