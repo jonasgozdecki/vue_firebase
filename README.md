@@ -51,8 +51,9 @@ SignUp.vue, createUserWithEmailAndPassword is ready to go, and using promisse to
     }
   }
 </script>
+```
 
-```javascript
+
 [![login_firebase](https://github.com/jonasgozdecki/vue_firebase/blob/master/readme/login_firebase.PNG)]()
 
 # Dynamic
@@ -83,7 +84,7 @@ var buttonsInPages = {
 						"tip": "Know about Nephew"
 					},
 
-```javascript
+```
 
 [![dev_menu](https://github.com/jonasgozdecki/vue_firebase/blob/master/readme/dev_menu.PNG)]()
 
@@ -117,7 +118,7 @@ ckNavItems: function(pgN,btN) {
 	return result;
 },
 
-```javascript
+```
 
 # Static
 
